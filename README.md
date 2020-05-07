@@ -7,6 +7,8 @@ Project of BB-CalVis: 3D Calendar Visualisation
 -------------------------------
 IMPLEMENT
 
+This project is based on windows environment.
+
 need to download openframeworks, it can be downloaded on the official website, here is the link:https://openframeworks.cc/
 
 unzip the calendar.zip and put it under the address \apps\myApps
